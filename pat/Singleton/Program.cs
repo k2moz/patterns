@@ -24,9 +24,10 @@ namespace Singleton
                 tasks.Add(task);
                 task.Start();
             }
+            
 
             Task.WhenAll(tasks);
-            #region
+            #endregion
 
             #region 3. Concurente Singleton
             List<Task> tasks2 = new List<Task>();

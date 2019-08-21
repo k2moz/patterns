@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SAS\\Patterns C#\\pat\\pat\\pat.csproj",
-      "projectName": "pat",
-      "projectPath": "C:\\SAS\\Patterns C#\\pat\\pat\\pat.csproj",
+      "projectUniqueName": "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\FactoryMethod.csproj",
+      "projectName": "FactoryMethod",
+      "projectPath": "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\FactoryMethod.csproj",
       "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-      "outputPath": "C:\\SAS\\Patterns C#\\pat\\pat\\obj\\",
+      "outputPath": "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

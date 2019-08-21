@@ -1,0 +1,10 @@
+C:\SAS\Patterns C#\pat\pat\bin\Debug\netcoreapp2.2\pat.deps.json
+C:\SAS\Patterns C#\pat\pat\bin\Debug\netcoreapp2.2\pat.runtimeconfig.json
+C:\SAS\Patterns C#\pat\pat\bin\Debug\netcoreapp2.2\pat.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\pat\bin\Debug\netcoreapp2.2\pat.dll
+C:\SAS\Patterns C#\pat\pat\bin\Debug\netcoreapp2.2\pat.pdb
+C:\SAS\Patterns C#\pat\pat\obj\Debug\netcoreapp2.2\pat.csproj.CoreCompileInputs.cache
+C:\SAS\Patterns C#\pat\pat\obj\Debug\netcoreapp2.2\pat.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\pat\obj\Debug\netcoreapp2.2\pat.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\pat\obj\Debug\netcoreapp2.2\pat.dll
+C:\SAS\Patterns C#\pat\pat\obj\Debug\netcoreapp2.2\pat.pdb
