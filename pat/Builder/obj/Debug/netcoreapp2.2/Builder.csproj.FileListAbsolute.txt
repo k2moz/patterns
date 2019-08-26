@@ -1,0 +1,11 @@
+C:\SAS\Patterns C#\pat\Builder\bin\Debug\netcoreapp2.2\Builder.deps.json
+C:\SAS\Patterns C#\pat\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.json
+C:\SAS\Patterns C#\pat\Builder\bin\Debug\netcoreapp2.2\Builder.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\Builder\bin\Debug\netcoreapp2.2\Builder.dll
+C:\SAS\Patterns C#\pat\Builder\bin\Debug\netcoreapp2.2\Builder.pdb
+C:\SAS\Patterns C#\pat\Builder\obj\Debug\netcoreapp2.2\Builder.csprojAssemblyReference.cache
+C:\SAS\Patterns C#\pat\Builder\obj\Debug\netcoreapp2.2\Builder.csproj.CoreCompileInputs.cache
+C:\SAS\Patterns C#\pat\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\Builder\obj\Debug\netcoreapp2.2\Builder.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\Builder\obj\Debug\netcoreapp2.2\Builder.dll
+C:\SAS\Patterns C#\pat\Builder\obj\Debug\netcoreapp2.2\Builder.pdb
