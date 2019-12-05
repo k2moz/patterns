@@ -1,0 +1,10 @@
+C:\SAS\Patterns C#\pat\AbstructFactory\bin\Debug\netcoreapp2.2\AbstructFactory.deps.json
+C:\SAS\Patterns C#\pat\AbstructFactory\bin\Debug\netcoreapp2.2\AbstructFactory.runtimeconfig.json
+C:\SAS\Patterns C#\pat\AbstructFactory\bin\Debug\netcoreapp2.2\AbstructFactory.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\AbstructFactory\bin\Debug\netcoreapp2.2\AbstructFactory.dll
+C:\SAS\Patterns C#\pat\AbstructFactory\bin\Debug\netcoreapp2.2\AbstructFactory.pdb
+C:\SAS\Patterns C#\pat\AbstructFactory\obj\Debug\netcoreapp2.2\AbstructFactory.csproj.CoreCompileInputs.cache
+C:\SAS\Patterns C#\pat\AbstructFactory\obj\Debug\netcoreapp2.2\AbstructFactory.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\AbstructFactory\obj\Debug\netcoreapp2.2\AbstructFactory.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\AbstructFactory\obj\Debug\netcoreapp2.2\AbstructFactory.dll
+C:\SAS\Patterns C#\pat\AbstructFactory\obj\Debug\netcoreapp2.2\AbstructFactory.pdb
