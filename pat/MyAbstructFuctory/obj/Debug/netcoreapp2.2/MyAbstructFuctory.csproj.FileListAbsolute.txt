@@ -1,0 +1,11 @@
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\bin\Debug\netcoreapp2.2\MyAbstructFuctory.deps.json
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\bin\Debug\netcoreapp2.2\MyAbstructFuctory.runtimeconfig.json
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\bin\Debug\netcoreapp2.2\MyAbstructFuctory.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\bin\Debug\netcoreapp2.2\MyAbstructFuctory.dll
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\bin\Debug\netcoreapp2.2\MyAbstructFuctory.pdb
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\obj\Debug\netcoreapp2.2\MyAbstructFuctory.csprojAssemblyReference.cache
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\obj\Debug\netcoreapp2.2\MyAbstructFuctory.csproj.CoreCompileInputs.cache
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\obj\Debug\netcoreapp2.2\MyAbstructFuctory.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\obj\Debug\netcoreapp2.2\MyAbstructFuctory.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\obj\Debug\netcoreapp2.2\MyAbstructFuctory.dll
+C:\SAS\Patterns C#\pat\MyAbstructFuctory\obj\Debug\netcoreapp2.2\MyAbstructFuctory.pdb

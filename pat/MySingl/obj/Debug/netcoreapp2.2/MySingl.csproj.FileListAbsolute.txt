@@ -1,0 +1,10 @@
+C:\SAS\Patterns C#\pat\MySingl\bin\Debug\netcoreapp2.2\MySingl.deps.json
+C:\SAS\Patterns C#\pat\MySingl\bin\Debug\netcoreapp2.2\MySingl.runtimeconfig.json
+C:\SAS\Patterns C#\pat\MySingl\bin\Debug\netcoreapp2.2\MySingl.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\MySingl\bin\Debug\netcoreapp2.2\MySingl.dll
+C:\SAS\Patterns C#\pat\MySingl\bin\Debug\netcoreapp2.2\MySingl.pdb
+C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.csproj.CoreCompileInputs.cache
+C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.dll
+C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.pdb

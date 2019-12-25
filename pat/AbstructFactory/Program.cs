@@ -98,12 +98,18 @@ namespace AbstructFactory
             Console.WriteLine("Бежим");
         }
     }
+
+
+
+    
     // класс абстрактной фабрики
     abstract class HeroFactory
     {
         public abstract Movement CreateMovement();
         public abstract Weapon CreateWeapon();
     }
+
+
     // Фабрика создания летящего героя с арбалетом
     class ElfFactory : HeroFactory
     {
