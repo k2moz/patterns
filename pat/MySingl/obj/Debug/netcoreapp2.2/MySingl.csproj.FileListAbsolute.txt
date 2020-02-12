@@ -8,3 +8,4 @@ C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.AssemblyInfoInput
 C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.AssemblyInfo.cs
 C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.dll
 C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.pdb
+C:\SAS\Patterns C#\pat\MySingl\obj\Debug\netcoreapp2.2\MySingl.csprojAssemblyReference.cache

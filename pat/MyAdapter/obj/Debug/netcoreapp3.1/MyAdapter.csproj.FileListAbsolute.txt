@@ -1,0 +1,11 @@
+C:\SAS\Patterns C#\pat\MyAdapter\bin\Debug\netcoreapp3.1\MyAdapter.exe
+C:\SAS\Patterns C#\pat\MyAdapter\bin\Debug\netcoreapp3.1\MyAdapter.deps.json
+C:\SAS\Patterns C#\pat\MyAdapter\bin\Debug\netcoreapp3.1\MyAdapter.runtimeconfig.json
+C:\SAS\Patterns C#\pat\MyAdapter\bin\Debug\netcoreapp3.1\MyAdapter.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\MyAdapter\bin\Debug\netcoreapp3.1\MyAdapter.dll
+C:\SAS\Patterns C#\pat\MyAdapter\bin\Debug\netcoreapp3.1\MyAdapter.pdb
+C:\SAS\Patterns C#\pat\MyAdapter\obj\Debug\netcoreapp3.1\MyAdapter.csprojAssemblyReference.cache
+C:\SAS\Patterns C#\pat\MyAdapter\obj\Debug\netcoreapp3.1\MyAdapter.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\MyAdapter\obj\Debug\netcoreapp3.1\MyAdapter.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\MyAdapter\obj\Debug\netcoreapp3.1\MyAdapter.dll
+C:\SAS\Patterns C#\pat\MyAdapter\obj\Debug\netcoreapp3.1\MyAdapter.pdb

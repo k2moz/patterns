@@ -6,7 +6,7 @@ namespace MySingl
 {
     public class Hero
     {
-        public static Hero hero;
+        private static Hero hero;
         private string _name;
 
         private  static readonly object _locker = new object();

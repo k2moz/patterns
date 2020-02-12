@@ -13,7 +13,11 @@ namespace MyBuilder.Products
 
     public class Armor { }
     public class Weapon { }
-    public class Transport { }
+    public class Transport
+    {
+        public int ID { get; set; }
+
+    }
 
     public class FlyTransport : Transport { }
 }

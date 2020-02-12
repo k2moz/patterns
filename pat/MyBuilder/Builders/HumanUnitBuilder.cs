@@ -21,7 +21,7 @@ namespace MyBuilder.Builders
 
         public void CreateTransport()
         {
-            _unit.Transport = new Transport();
+            _unit.Transport = new Transport() { ID = 2 };
         }
 
         public void CreateWeapon()
