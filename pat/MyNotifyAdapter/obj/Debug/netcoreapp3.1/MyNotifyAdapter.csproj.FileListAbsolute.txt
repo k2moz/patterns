@@ -1,0 +1,11 @@
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\bin\Debug\netcoreapp3.1\MyNotifyAdapter.exe
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\bin\Debug\netcoreapp3.1\MyNotifyAdapter.deps.json
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\bin\Debug\netcoreapp3.1\MyNotifyAdapter.runtimeconfig.json
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\bin\Debug\netcoreapp3.1\MyNotifyAdapter.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\bin\Debug\netcoreapp3.1\MyNotifyAdapter.dll
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\bin\Debug\netcoreapp3.1\MyNotifyAdapter.pdb
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\obj\Debug\netcoreapp3.1\MyNotifyAdapter.csprojAssemblyReference.cache
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\obj\Debug\netcoreapp3.1\MyNotifyAdapter.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\obj\Debug\netcoreapp3.1\MyNotifyAdapter.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\obj\Debug\netcoreapp3.1\MyNotifyAdapter.dll
+C:\SAS\Patterns C#\pat\MyNotifyAdapter\obj\Debug\netcoreapp3.1\MyNotifyAdapter.pdb

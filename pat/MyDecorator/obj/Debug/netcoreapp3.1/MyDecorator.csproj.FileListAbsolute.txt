@@ -1,0 +1,11 @@
+C:\SAS\Patterns C#\pat\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.exe
+C:\SAS\Patterns C#\pat\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.deps.json
+C:\SAS\Patterns C#\pat\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.runtimeconfig.json
+C:\SAS\Patterns C#\pat\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.dll
+C:\SAS\Patterns C#\pat\MyDecorator\bin\Debug\netcoreapp3.1\MyDecorator.pdb
+C:\SAS\Patterns C#\pat\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.csprojAssemblyReference.cache
+C:\SAS\Patterns C#\pat\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.dll
+C:\SAS\Patterns C#\pat\MyDecorator\obj\Debug\netcoreapp3.1\MyDecorator.pdb

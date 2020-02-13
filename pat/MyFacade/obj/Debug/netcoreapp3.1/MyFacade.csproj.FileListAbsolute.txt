@@ -1,0 +1,11 @@
+C:\SAS\Patterns C#\pat\MyFacade\bin\Debug\netcoreapp3.1\MyFacade.exe
+C:\SAS\Patterns C#\pat\MyFacade\bin\Debug\netcoreapp3.1\MyFacade.deps.json
+C:\SAS\Patterns C#\pat\MyFacade\bin\Debug\netcoreapp3.1\MyFacade.runtimeconfig.json
+C:\SAS\Patterns C#\pat\MyFacade\bin\Debug\netcoreapp3.1\MyFacade.runtimeconfig.dev.json
+C:\SAS\Patterns C#\pat\MyFacade\bin\Debug\netcoreapp3.1\MyFacade.dll
+C:\SAS\Patterns C#\pat\MyFacade\bin\Debug\netcoreapp3.1\MyFacade.pdb
+C:\SAS\Patterns C#\pat\MyFacade\obj\Debug\netcoreapp3.1\MyFacade.csprojAssemblyReference.cache
+C:\SAS\Patterns C#\pat\MyFacade\obj\Debug\netcoreapp3.1\MyFacade.AssemblyInfoInputs.cache
+C:\SAS\Patterns C#\pat\MyFacade\obj\Debug\netcoreapp3.1\MyFacade.AssemblyInfo.cs
+C:\SAS\Patterns C#\pat\MyFacade\obj\Debug\netcoreapp3.1\MyFacade.dll
+C:\SAS\Patterns C#\pat\MyFacade\obj\Debug\netcoreapp3.1\MyFacade.pdb
