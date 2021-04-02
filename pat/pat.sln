@@ -31,21 +31,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyPrototype", "MyPrototype\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Struct", "Struct", "{4239C1B6-426E-45BB-AF82-5021C5041E9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{83C6DDB1-0F14-4961-94F2-43EADC0C868E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{83C6DDB1-0F14-4961-94F2-43EADC0C868E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MyImplements", "MyImplements", "{AAC1BB7E-0D29-4BC9-BF1F-D660B67A36D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAdapter", "MyAdapter\MyAdapter.csproj", "{EEA18C4A-CDF2-40A7-96EB-157E1A63E6BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAdapter", "MyAdapter\MyAdapter.csproj", "{EEA18C4A-CDF2-40A7-96EB-157E1A63E6BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "Decorator\Decorator.csproj", "{F2D55CE6-CC6B-4380-A85A-BD0A169B7548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Decorator", "Decorator\Decorator.csproj", "{F2D55CE6-CC6B-4380-A85A-BD0A169B7548}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDecorator", "MyDecorator\MyDecorator.csproj", "{E819D0D8-27D9-499B-80F8-43A6DECA7A35}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyDecorator", "MyDecorator\MyDecorator.csproj", "{E819D0D8-27D9-499B-80F8-43A6DECA7A35}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyNotifyDecorator", "MyNotifyAdapter\MyNotifyDecorator.csproj", "{01F38546-4A03-479D-A087-C039B84AB641}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyNotifyDecorator", "MyNotifyAdapter\MyNotifyDecorator.csproj", "{01F38546-4A03-479D-A087-C039B84AB641}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{BC5E172E-2FAC-4683-BD92-606AFC95888D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{BC5E172E-2FAC-4683-BD92-606AFC95888D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFacade", "MyFacade\MyFacade.csproj", "{AE9CB3DD-0620-4615-852E-32B688202C48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyFacade", "MyFacade\MyFacade.csproj", "{AE9CB3DD-0620-4615-852E-32B688202C48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsFactoryMethod", "CarsFactoryMethod\CarsFactoryMethod.csproj", "{2D95A758-92C7-46B0-B83D-590211CA95BC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +127,10 @@ Global
 		{AE9CB3DD-0620-4615-852E-32B688202C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9CB3DD-0620-4615-852E-32B688202C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9CB3DD-0620-4615-852E-32B688202C48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D95A758-92C7-46B0-B83D-590211CA95BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D95A758-92C7-46B0-B83D-590211CA95BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D95A758-92C7-46B0-B83D-590211CA95BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D95A758-92C7-46B0-B83D-590211CA95BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -149,6 +155,7 @@ Global
 		{01F38546-4A03-479D-A087-C039B84AB641} = {AAC1BB7E-0D29-4BC9-BF1F-D660B67A36D6}
 		{BC5E172E-2FAC-4683-BD92-606AFC95888D} = {4239C1B6-426E-45BB-AF82-5021C5041E9C}
 		{AE9CB3DD-0620-4615-852E-32B688202C48} = {AAC1BB7E-0D29-4BC9-BF1F-D660B67A36D6}
+		{2D95A758-92C7-46B0-B83D-590211CA95BC} = {936363FE-DD56-4D6E-B070-B7F6B8E93785}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E7907B7-CF1E-4946-8B39-7AF080093A3B}

@@ -17,5 +17,10 @@ namespace MyFactoryMethod
 
             Console.ReadLine();
         }
+
+        void SomeCreater(Guildhall hall) {
+            var unit = hall.Create("Hoi");
+            unit.DoSomethink();
+        }
     }
 }

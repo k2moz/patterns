@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\FactoryMethod.csproj": {}
+    "D:\\Projects\\patterns\\pat\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
-    "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\FactoryMethod.csproj": {
+    "D:\\Projects\\patterns\\pat\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "D:\\Projects\\patterns\\pat\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\FactoryMethod.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\SAS\\Patterns C#\\pat\\FactoryMethod\\obj\\",
+        "projectPath": "D:\\Projects\\patterns\\pat\\FactoryMethod\\FactoryMethod.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\patterns\\pat\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp2.2": {
+            "targetAlias": "netcoreapp2.2",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
+          "targetAlias": "netcoreapp2.2",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -60,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

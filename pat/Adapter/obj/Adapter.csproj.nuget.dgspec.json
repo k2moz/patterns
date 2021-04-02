@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SAS\\Patterns C#\\pat\\Adapter\\Adapter.csproj": {}
+    "D:\\Projects\\patterns\\pat\\Adapter\\Adapter.csproj": {}
   },
   "projects": {
-    "C:\\SAS\\Patterns C#\\pat\\Adapter\\Adapter.csproj": {
+    "D:\\Projects\\patterns\\pat\\Adapter\\Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SAS\\Patterns C#\\pat\\Adapter\\Adapter.csproj",
+        "projectUniqueName": "D:\\Projects\\patterns\\pat\\Adapter\\Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "C:\\SAS\\Patterns C#\\pat\\Adapter\\Adapter.csproj",
-        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
-        "outputPath": "C:\\SAS\\Patterns C#\\pat\\Adapter\\obj\\",
+        "projectPath": "D:\\Projects\\patterns\\pat\\Adapter\\Adapter.csproj",
+        "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\patterns\\pat\\Adapter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleks\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,6 +31,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,12 +54,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.11, 3.1.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
