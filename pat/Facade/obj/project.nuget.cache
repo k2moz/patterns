@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0sk7DZyj+hVTxizDQ0m/8QXkiUIue0sky1Dr8tZmjHbHDa+nX8p1hraOu3mhBOIybksl3330Jzvws5DcayON4w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\patterns\\pat\\Facade\\Facade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

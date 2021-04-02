@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yqEUccLSFRPUGcEkqaQmnjsgg2yVSDCAC7YRJBGVJyrB2qs+HmTw77UWhbk9qkI9nPlHyjIGDXPWJHRaPEeK0A==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\patterns\\pat\\MyNotifyAdapter\\MyNotifyDecorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+D:\Projects\patterns\pat\CarsFactoryMethod\bin\Debug\netcoreapp3.1\CarsFactoryMethod.exe
+D:\Projects\patterns\pat\CarsFactoryMethod\bin\Debug\netcoreapp3.1\CarsFactoryMethod.deps.json
+D:\Projects\patterns\pat\CarsFactoryMethod\bin\Debug\netcoreapp3.1\CarsFactoryMethod.runtimeconfig.json
+D:\Projects\patterns\pat\CarsFactoryMethod\bin\Debug\netcoreapp3.1\CarsFactoryMethod.runtimeconfig.dev.json
+D:\Projects\patterns\pat\CarsFactoryMethod\bin\Debug\netcoreapp3.1\CarsFactoryMethod.dll
+D:\Projects\patterns\pat\CarsFactoryMethod\bin\Debug\netcoreapp3.1\CarsFactoryMethod.pdb
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.AssemblyInfoInputs.cache
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.AssemblyInfo.cs
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.csproj.CoreCompileInputs.cache
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.dll
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.pdb
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.genruntimeconfig.cache
+D:\Projects\patterns\pat\CarsFactoryMethod\obj\Debug\netcoreapp3.1\CarsFactoryMethod.csprojAssemblyReference.cache

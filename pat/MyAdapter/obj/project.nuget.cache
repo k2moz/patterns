@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "odZnmTWiUaqzP1UQyGlukH/RMmj+wP1qzaAnKIGBZAqtAYV+zA0QCj6PgNZkkE9o0MeWqzbDDg4RPMgFNbFVUA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\patterns\\pat\\MyAdapter\\MyAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}

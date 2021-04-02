@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "v9Fuz6l/dFHIFk733La1gbNcblfgAUhc1/lMc/PbE1ZJwsk3jWOonYBF4hckYnkO68YzSMOBpCxW/AOWhD+43g==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\patterns\\pat\\MyDecorator\\MyDecorator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
